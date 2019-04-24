@@ -1,2 +1,4 @@
-# pratikugale.github.io
 "Hello"
+TO view Portfolio , visit url : pratikugale.github.io/index.html
+
+
